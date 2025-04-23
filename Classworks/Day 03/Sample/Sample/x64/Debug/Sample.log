@@ -1,0 +1,12 @@
+﻿  ptr.cpp
+C:\Users\Administrator\Desktop\Cpp learning\Day 03\Sample\src\ptr.cpp(15,17): error C2556: 'int func(int)': overloaded function differs only by return type from 'int *func(int)'
+  C:\Users\Administrator\Desktop\Cpp learning\Day 03\Sample\src\ptr.cpp(5,6):
+  see declaration of 'func'
+  
+C:\Users\Administrator\Desktop\Cpp learning\Day 03\Sample\src\ptr.cpp(15,5): error C2040: 'func': 'int (int)' differs in levels of indirection from 'int *(int)'
+  sample.cpp
+C:\Users\Administrator\Desktop\Cpp learning\Day 03\Sample\src\sample.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Administrator\Desktop\Cpp learning\Day 03\Sample\src\sample.cpp(12,3): error C3490: 'count' cannot be modified because it is being accessed through a const object
+C:\Users\Administrator\Desktop\Cpp learning\Day 03\Sample\src\sample.cpp(13,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\Administrator\Desktop\Cpp learning\Day 03\Sample\src\sample.cpp(18,12): error C3861: 'func': identifier not found
+  Generating Code...

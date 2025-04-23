@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5D69D-5C7B-40F5-AB68-161DA2BC9943}|Sample.vcxproj|C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\typeConversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37F5D69D-5C7B-40F5-AB68-161DA2BC9943}|Sample.vcxproj|solutionrelative:src\\typeConversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5D69D-5C7B-40F5-AB68-161DA2BC9943}|Sample.vcxproj|C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\datatype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37F5D69D-5C7B-40F5-AB68-161DA2BC9943}|Sample.vcxproj|solutionrelative:src\\datatype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5D69D-5C7B-40F5-AB68-161DA2BC9943}|Sample.vcxproj|C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37F5D69D-5C7B-40F5-AB68-161DA2BC9943}|Sample.vcxproj|solutionrelative:src\\ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5D69D-5C7B-40F5-AB68-161DA2BC9943}|Sample.vcxproj|C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\sample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37F5D69D-5C7B-40F5-AB68-161DA2BC9943}|Sample.vcxproj|solutionrelative:src\\sample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "typeConversion.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\typeConversion.cpp",
+              "RelativeDocumentMoniker": "src\\typeConversion.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\typeConversion.cpp",
+              "RelativeToolTip": "src\\typeConversion.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T08:48:25.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ptr.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\ptr.cpp",
+              "RelativeDocumentMoniker": "src\\ptr.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\ptr.cpp",
+              "RelativeToolTip": "src\\ptr.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T08:33:55.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sample.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\sample.cpp",
+              "RelativeDocumentMoniker": "src\\sample.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\sample.cpp",
+              "RelativeToolTip": "src\\sample.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T07:19:54.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "datatype.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\datatype.cpp",
+              "RelativeDocumentMoniker": "src\\datatype.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Cpp learning\\Day 03\\Sample\\src\\datatype.cpp",
+              "RelativeToolTip": "src\\datatype.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T05:44:17.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
