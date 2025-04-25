@@ -1,0 +1,5 @@
+﻿  functions.cpp
+  main.cpp
+C:\Users\Administrator\Desktop\cppRepo\Classworks\Day 08\08\08\src\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  08.vcxproj -> C:\Users\Administrator\Desktop\cppRepo\Classworks\Day 08\08\x64\Debug\08.exe

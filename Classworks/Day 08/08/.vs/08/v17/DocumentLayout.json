@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cppRepo\\Classworks\\Day 08\\08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D551C12-B888-4889-B013-8D2F08768419}|08\\08.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\Classworks\\Day 08\\08\\08\\src\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D551C12-B888-4889-B013-8D2F08768419}|08\\08.vcxproj|solutionrelative:08\\src\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D551C12-B888-4889-B013-8D2F08768419}|08\\08.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\Classworks\\Day 08\\08\\08\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D551C12-B888-4889-B013-8D2F08768419}|08\\08.vcxproj|solutionrelative:08\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D551C12-B888-4889-B013-8D2F08768419}|08\\08.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\Classworks\\Day 08\\08\\08\\src\\isPrime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D551C12-B888-4889-B013-8D2F08768419}|08\\08.vcxproj|solutionrelative:08\\src\\isPrime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "isPrime.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\Classworks\\Day 08\\08\\08\\src\\isPrime.cpp",
+              "RelativeDocumentMoniker": "08\\src\\isPrime.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\Classworks\\Day 08\\08\\08\\src\\isPrime.cpp",
+              "RelativeToolTip": "08\\src\\isPrime.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T08:45:04.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "functions.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\Classworks\\Day 08\\08\\08\\src\\functions.cpp",
+              "RelativeDocumentMoniker": "08\\src\\functions.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\Classworks\\Day 08\\08\\08\\src\\functions.cpp",
+              "RelativeToolTip": "08\\src\\functions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T13:11:42.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\Classworks\\Day 08\\08\\08\\src\\main.cpp",
+              "RelativeDocumentMoniker": "08\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\Classworks\\Day 08\\08\\08\\src\\main.cpp",
+              "RelativeToolTip": "08\\src\\main.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T13:04:46.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
