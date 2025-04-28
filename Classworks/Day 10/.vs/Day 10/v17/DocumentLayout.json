@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{382ABF30-7EE1-4A02-B4B0-33CA4F4F422A}|Day 10\\Day 10.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\wrkt3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382ABF30-7EE1-4A02-B4B0-33CA4F4F422A}|Day 10\\Day 10.vcxproj|solutionrelative:Day 10\\src\\wrkt3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\callByValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 10\\src\\callByValue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\passByPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 10\\src\\passByPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\cond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 10\\src\\cond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day 10\\src\\func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wrkt3.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\wrkt3.cpp",
+              "RelativeDocumentMoniker": "Day 10\\src\\wrkt3.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\wrkt3.cpp",
+              "RelativeToolTip": "Day 10\\src\\wrkt3.cpp",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAQwN0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T20:16:33.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cond.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\cond.cpp",
+              "RelativeDocumentMoniker": "Day 10\\src\\cond.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\cond.cpp",
+              "RelativeToolTip": "Day 10\\src\\cond.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T09:51:53.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "callByValue.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\callByValue.cpp",
+              "RelativeDocumentMoniker": "Day 10\\src\\callByValue.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\callByValue.cpp",
+              "RelativeToolTip": "Day 10\\src\\callByValue.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T09:51:50.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "func.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\func.cpp",
+              "RelativeDocumentMoniker": "Day 10\\src\\func.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\func.cpp",
+              "RelativeToolTip": "Day 10\\src\\func.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T09:51:21.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "passByPointers.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\passByPointers.cpp",
+              "RelativeDocumentMoniker": "Day 10\\src\\passByPointers.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 10\\Day 10\\src\\passByPointers.cpp*",
+              "RelativeToolTip": "Day 10\\src\\passByPointers.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T07:17:49.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
