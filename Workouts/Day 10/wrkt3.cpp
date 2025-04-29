@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
 
+//logical que
+
 //1) find smallest digit in given number
-/*
+
 int findSmallestDigit(int);
 int main() {
 	int num;
@@ -23,10 +25,10 @@ int findSmallestDigit(int num) {
 	}
 	return sml;
 }
-*/
+
 
 //2) odd one counting
-/*
+
 int findOddSum(int);
 int main() {
 	int num;
@@ -46,10 +48,10 @@ int findOddSum(int num) {
 	}
 	return sum;
 }
-*/
+
 
 //3) Broken clock
-/*
+
 void printRingMinutes(int hour) {
 	for (int minute = 1; minute <= 59; minute++) {
 		if (hour % minute == 0) {
@@ -73,10 +75,10 @@ int main() {
 	printRingMinutes(hour);
 	return 0;
 }
-*/
+
 
 //4) Secret message in binary
-/*
+
 #include <bitset>
 
 int countOnes(int num) {
@@ -94,10 +96,10 @@ int main() {
 
 	return 0;
 }
-*/
+
 
 //5) kings perfect army
-/*
+
 bool isPerfectNumber(int num) {
 	int sum = 0;
 
@@ -124,10 +126,10 @@ int main() {
 
 	return 0;
 }
-*/
+
 
 //6) spaceship countdown
-/*
+
 int main() {
 	int n;
 
@@ -141,10 +143,10 @@ int main() {
 	cout << "Launch!\n";
 	return 0;
 }
-*/
+
 
 //7) valid if first non zero digit is even
-/*
+
 bool isEvenFirstNonZeroDigit(int code) {
 	while (code > 0) {
 		int digit = code % 10;
@@ -172,10 +174,10 @@ int main() {
 
 	return 0;
 }
-*/
+
 
 //8) highest power of 2
-/*
+
 int highestPowerOf2(int x) {
 	if (x <= 0) {
 		return 0;
@@ -201,10 +203,10 @@ int main() {
 	return 0;
 }
 
-*/
+
 
 //10)doubling machine
-/*
+
 int calculateSum(int n) {
 	return (pow(2, n + 1) - 1);
 }
@@ -219,4 +221,3 @@ int main() {
 	cout << "The sum of all numbers seen after " << n << " presses is: " << result << endl;
 	return 0;
 }
-*/
