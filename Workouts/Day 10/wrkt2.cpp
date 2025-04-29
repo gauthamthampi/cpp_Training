@@ -2,8 +2,8 @@
 using namespace std;
 
 //que 6 file
-/*
-1) - find the middle amoung 3
+
+//1) - find the middle amoung 3
 
 int findMiddle(int, int, int);
 int main() {
@@ -30,10 +30,9 @@ int findMiddle(int n1, int n2, int n3) {
 		return n3;  // n3 is the middle
 	}
 }
-*/
 
-/*
-2. Sum of Digits Until a Single Digit
+
+//2. Sum of Digits Until a Single Digit
 
 int findSum(int);
 
@@ -58,10 +57,8 @@ int findSum(int i) {
 		return digit + findSum(i /= 10);
 	}
 }
-*/
 
-/*
-3) find the given year is a leap year or not
+//3) find the given year is a leap year or not
 
 int main() {
 	int num;
@@ -75,10 +72,8 @@ int main() {
 	}
 }
 
-*/
 
-/*
-4) find the second largest digit
+//4) find the second largest digit
 int main() {
 	int num,l1=0,l2=0;
 	cout << "Enter number: ";
@@ -95,9 +90,8 @@ int main() {
 	}
 	cout << "The second largest is : " << l2;
 }
-*/
-/*
- 5) find minute and seconds
+
+// 5) find minute and seconds
  int main() {
 	int hour, min = 0, sec = 0;
 	cout << "Enter hours: ";
@@ -109,10 +103,7 @@ int main() {
 	cout << "Answer is " << min << " minutes and " << sec << " seconds.";
 		return 0;
 }
-*/
-
-/*
-6) find the sum of 2 numbers is even
+//6) find the sum of 2 numbers is even
 int main() {
 	int n1, n2;
 	cout << "Enter two numbers" << endl;
@@ -130,10 +121,8 @@ int main() {
 	}
 	return 0;
 }
-*/
 
-/*
-*7) form a new number with first digit and last digit
+//7) form a new number with first digit and last digit
 int formNewNumber(int firstNumber, int secondNumber) {
 	int lastDigit = firstNumber % 10;
 
@@ -163,10 +152,7 @@ int main() {
 	return 0;
 }
 
-*/
-
-/*
-8) swap two numbers without third variable
+//8) swap two numbers without third variable
 void swapNumbers(int& a, int& b) { //Pass by reference
 	a = a + b;
 	b = a - b;
@@ -188,11 +174,7 @@ int main() {
 	return 0;
 }
 
-*/
-
-
-/*
-9) find power using only multiplication
+//9) find power using only multiplication
 int power(int a, int b) {
 	if (b == 0) {
 		return 1;
@@ -214,10 +196,8 @@ int main() {
 
 	return 0;
 }
-*/
 
-/*
-10) is triangle valid
+//10) is triangle valid
 bool isValidTriangle(int a, int b, int c) {
 	return (a + b + c == 180) && (a > 0 && b > 0 && c > 0);
 }
@@ -238,7 +218,7 @@ int main() {
 	}
 	return 0;
 }
-*/
+
 
 
 
