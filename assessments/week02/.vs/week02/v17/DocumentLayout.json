@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED13F03C-EEA2-4409-8F63-DDE97C3F1B24}|week02\\week02.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week02\\week02\\src\\problem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED13F03C-EEA2-4409-8F63-DDE97C3F1B24}|week02\\week02.vcxproj|solutionrelative:week02\\src\\problem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED13F03C-EEA2-4409-8F63-DDE97C3F1B24}|week02\\week02.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week02\\week02\\src\\problem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ED13F03C-EEA2-4409-8F63-DDE97C3F1B24}|week02\\week02.vcxproj|solutionrelative:week02\\src\\problem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "problem3.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week02\\week02\\src\\problem3.cpp",
+              "RelativeDocumentMoniker": "week02\\src\\problem3.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week02\\week02\\src\\problem3.cpp",
+              "RelativeToolTip": "week02\\src\\problem3.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T05:56:04.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "problem1.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week02\\week02\\src\\problem1.cpp",
               "RelativeDocumentMoniker": "week02\\src\\problem1.cpp",
