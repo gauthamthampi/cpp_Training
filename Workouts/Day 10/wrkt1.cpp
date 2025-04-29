@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
  
-/*
-1)
+//que 5 file
+//1)
 int printNums(int);
 
 int main() {
@@ -21,10 +21,10 @@ int printNums(int n) {
 	cout << n << " ";
 	printNums(n - 1);
 }
-*/
 
-/*
-2)
+
+
+//2)
 int calculateSum(int);
 
 int main() {
@@ -46,9 +46,7 @@ int calculateSum(int i) {
 	return i + calculateSum(i-1);
 }
 
-*/
-
-/*
+//3)
 int fibonacci(int);
 int main() {
 	int num;
@@ -68,9 +66,9 @@ int fibonacci(int i) {
 
 	return fibonacci(i - 1) + fibonacci(i - 2);
 }
-*/
 
-/*
+
+//4)
 int findZeros(int);
 
 int main() {
@@ -96,5 +94,5 @@ int findZeros(int i) {
 		return findZeros(i / 10);
 	}
 }
-*/
+
 
