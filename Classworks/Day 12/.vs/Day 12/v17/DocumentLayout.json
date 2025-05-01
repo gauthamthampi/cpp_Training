@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A655F5-75DB-475E-8BF7-17DE6D750297}|Day 12\\Day 12.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 12\\Day 12\\src\\mergeString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7A655F5-75DB-475E-8BF7-17DE6D750297}|Day 12\\Day 12.vcxproj|solutionrelative:Day 12\\src\\mergeString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A655F5-75DB-475E-8BF7-17DE6D750297}|Day 12\\Day 12.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 12\\Day 12\\src\\string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7A655F5-75DB-475E-8BF7-17DE6D750297}|Day 12\\Day 12.vcxproj|solutionrelative:Day 12\\src\\string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "string.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 12\\Day 12\\src\\string.cpp",
+              "RelativeDocumentMoniker": "Day 12\\src\\string.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 12\\Day 12\\src\\string.cpp",
+              "RelativeToolTip": "Day 12\\src\\string.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T12:14:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mergeString.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 12\\Day 12\\src\\mergeString.cpp",
+              "RelativeDocumentMoniker": "Day 12\\src\\mergeString.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 12\\Day 12\\src\\mergeString.cpp",
+              "RelativeToolTip": "Day 12\\src\\mergeString.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwDUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T12:10:46.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
