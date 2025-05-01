@@ -203,6 +203,52 @@ int main() {
 	return 0;
 }
 
+//9)magic multiplying size
+
+// check if a number is prime
+bool isPrime(int num) {
+    if (num <= 1) return false;
+    for (int i = 2; i*i <= num; i++) {
+        if (num % i == 0)
+            return false;
+    }
+    return true;
+}
+
+int multiplyDigits(int num) {
+    int product = 1;
+    while (num > 0) {
+        int digit = num % 10;
+        product *= digit;
+        num /= 10;
+    }
+    return product;
+}
+
+int main() {
+    int number;
+    cout << "Enter a number: ";
+    cin >> number;
+
+    // Validate input
+    if (number < 0) {
+        cout << "Negative numbers are not allowed.\n";
+        return 0;
+    }
+
+    int product = multiplyDigits(number);
+
+    cout << "Product of digits = " << product << endl;
+
+    if (isPrime(product)) {
+        cout << "Magic box opens!" << endl;
+    } else {
+        cout << "Magic box remains closed." << endl;
+    }
+
+    return 0;
+}
+
 
 
 //10)doubling machine
