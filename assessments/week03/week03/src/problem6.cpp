@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-const int MAX = 100;
+#define MAX 1024
 
 /*
 6) You are given an array arr[] of size N containing positive integers. Your task 

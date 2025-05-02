@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <string>
+#define MAX 1024
 
 
 /*
@@ -11,17 +12,17 @@ Finds the starting positions (0-based index) of the substrings "are" and "i" in 
 Calculates and prints the sum of these two positions.
 If either of the substrings is not found in the input, treat its position as -1.
 */
-int findSum(char[]);
+int findSubStrSum(char[]);
 int main() {
-	char myString[100];
+	char myString[MAX];
 	cout << "Enter the string: ";
-	cin.getline(myString, 100);
-	int sum = findSum(myString);
+	cin.getline(myString, MAX);
+	int sum = findSubStrSum(myString);
 	cout << "Sum = " << sum;
 	return 0;
 }
 
-int findSum(char str[]) {
+int findSubStrSum(char str[]) {
 	int areCount=-1, iCount=-1, sum, i=0;
 	while (str[i] != '\0') {
 		if (str[i] == 'a') {
