@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54BD26-A985-4BDA-871F-87ABB46A7A60}|week03\\week03.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week03\\week03\\src\\problem6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C54BD26-A985-4BDA-871F-87ABB46A7A60}|week03\\week03.vcxproj|solutionrelative:week03\\src\\problem6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54BD26-A985-4BDA-871F-87ABB46A7A60}|week03\\week03.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week03\\week03\\src\\problem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C54BD26-A985-4BDA-871F-87ABB46A7A60}|week03\\week03.vcxproj|solutionrelative:week03\\src\\problem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C54BD26-A985-4BDA-871F-87ABB46A7A60}|week03\\week03.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week03\\week03\\src\\problem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C54BD26-A985-4BDA-871F-87ABB46A7A60}|week03\\week03.vcxproj|solutionrelative:week03\\src\\problem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "problem6.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week03\\week03\\src\\problem6.cpp",
+              "RelativeDocumentMoniker": "week03\\src\\problem6.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week03\\week03\\src\\problem6.cpp",
+              "RelativeToolTip": "week03\\src\\problem6.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwCkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T06:24:47.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "problem3.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week03\\week03\\src\\problem3.cpp",
+              "RelativeDocumentMoniker": "week03\\src\\problem3.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week03\\week03\\src\\problem3.cpp",
+              "RelativeToolTip": "week03\\src\\problem3.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T04:54:06.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "problem1.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week03\\week03\\src\\problem1.cpp",
+              "RelativeDocumentMoniker": "week03\\src\\problem1.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\assessments\\week03\\week03\\src\\problem1.cpp",
+              "RelativeToolTip": "week03\\src\\problem1.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T04:22:24.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
