@@ -1,0 +1,3 @@
+﻿  prog36.cpp
+C:\Users\Administrator\Desktop\cppBasics\cppBasics\src\prog36.cpp(11,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  cppBasics.vcxproj -> C:\Users\Administrator\Desktop\cppBasics\x64\Debug\cppBasics.exe

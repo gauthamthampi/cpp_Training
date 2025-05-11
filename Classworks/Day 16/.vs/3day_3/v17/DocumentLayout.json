@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\3day_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44C92063-C7C0-4C32-A2F4-B13628D4A8A1}|3day_3\\3day_3.vcxproj|C:\\Users\\Administrator\\Desktop\\3day_3\\3day_3\\src\\stringRev_givenLIne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C92063-C7C0-4C32-A2F4-B13628D4A8A1}|3day_3\\3day_3.vcxproj|solutionrelative:3day_3\\src\\stringRev_givenLIne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C92063-C7C0-4C32-A2F4-B13628D4A8A1}|3day_3\\3day_3.vcxproj|C:\\Users\\Administrator\\Desktop\\3day_3\\3day_3\\src\\stringRev.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C92063-C7C0-4C32-A2F4-B13628D4A8A1}|3day_3\\3day_3.vcxproj|solutionrelative:3day_3\\src\\stringRev.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stringRev_givenLIne.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\3day_3\\3day_3\\src\\stringRev_givenLIne.cpp",
+              "RelativeDocumentMoniker": "3day_3\\src\\stringRev_givenLIne.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\3day_3\\3day_3\\src\\stringRev_givenLIne.cpp",
+              "RelativeToolTip": "3day_3\\src\\stringRev_givenLIne.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T17:46:47.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stringRev.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\3day_3\\3day_3\\src\\stringRev.cpp",
+              "RelativeDocumentMoniker": "3day_3\\src\\stringRev.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\3day_3\\3day_3\\src\\stringRev.cpp",
+              "RelativeToolTip": "3day_3\\src\\stringRev.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T17:42:58.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

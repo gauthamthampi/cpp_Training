@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\3day_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B8A7DA-225C-402D-88E3-AFB24712B3BB}|3day_1\\3day_1.vcxproj|C:\\Users\\Administrator\\Desktop\\3day_1\\3day_1\\src\\removeVowels.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71B8A7DA-225C-402D-88E3-AFB24712B3BB}|3day_1\\3day_1.vcxproj|solutionrelative:3day_1\\src\\removeVowels.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B8A7DA-225C-402D-88E3-AFB24712B3BB}|3day_1\\3day_1.vcxproj|C:\\Users\\Administrator\\Desktop\\3day_1\\3day_1\\src\\vowelConsonants.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71B8A7DA-225C-402D-88E3-AFB24712B3BB}|3day_1\\3day_1.vcxproj|solutionrelative:3day_1\\src\\vowelConsonants.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "removeVowels.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\3day_1\\3day_1\\src\\removeVowels.cpp",
+              "RelativeDocumentMoniker": "3day_1\\src\\removeVowels.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\3day_1\\3day_1\\src\\removeVowels.cpp",
+              "RelativeToolTip": "3day_1\\src\\removeVowels.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T12:21:00.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vowelConsonants.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\3day_1\\3day_1\\src\\vowelConsonants.cpp",
+              "RelativeDocumentMoniker": "3day_1\\src\\vowelConsonants.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\3day_1\\3day_1\\src\\vowelConsonants.cpp",
+              "RelativeToolTip": "3day_1\\src\\vowelConsonants.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T11:34:01.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
