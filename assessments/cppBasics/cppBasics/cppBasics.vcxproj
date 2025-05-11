@@ -19,7 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\prog37.cpp" />
+    <ClCompile Include="src\prog62.cpp" />
+    <ClCompile Include="src\prog63.cpp" />
+    <ClCompile Include="src\prog64.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

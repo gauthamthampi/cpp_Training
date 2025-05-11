@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cppBasics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog37.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|solutionrelative:cppBasics\\src\\prog37.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog64.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|solutionrelative:cppBasics\\src\\prog64.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog63.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|solutionrelative:cppBasics\\src\\prog63.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog62.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|solutionrelative:cppBasics\\src\\prog62.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog36.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|solutionrelative:cppBasics\\src\\prog36.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog39.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F03254D-9D09-4D1D-B667-56A3ECB57AB1}|cppBasics\\cppBasics.vcxproj|solutionrelative:cppBasics\\src\\prog39.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -39,32 +51,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "prog37.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog37.cpp",
-              "RelativeDocumentMoniker": "cppBasics\\src\\prog37.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog37.cpp",
-              "RelativeToolTip": "cppBasics\\src\\prog37.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "prog64.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog64.cpp",
+              "RelativeDocumentMoniker": "cppBasics\\src\\prog64.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog64.cpp",
+              "RelativeToolTip": "cppBasics\\src\\prog64.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-11T09:22:44.889Z",
+              "WhenOpened": "2025-05-11T16:17:38.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "prog63.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog63.cpp",
+              "RelativeDocumentMoniker": "cppBasics\\src\\prog63.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog63.cpp",
+              "RelativeToolTip": "cppBasics\\src\\prog63.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T16:15:17.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "prog62.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog62.cpp",
+              "RelativeDocumentMoniker": "cppBasics\\src\\prog62.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog62.cpp",
+              "RelativeToolTip": "cppBasics\\src\\prog62.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T16:12:00.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "prog39.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog39.cpp",
+              "RelativeDocumentMoniker": "cppBasics\\src\\prog39.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog39.cpp",
+              "RelativeToolTip": "cppBasics\\src\\prog39.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T11:45:06.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "prog36.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog36.cpp",
               "RelativeDocumentMoniker": "cppBasics\\src\\prog36.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog36.cpp",
               "RelativeToolTip": "cppBasics\\src\\prog36.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-11T07:31:48.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "prog27.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog27.cpp",
               "RelativeDocumentMoniker": "cppBasics\\src\\prog27.cpp",
@@ -76,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "prog17.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog17.cpp",
               "RelativeDocumentMoniker": "cppBasics\\src\\prog17.cpp",
@@ -88,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "prog08.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog08.cpp",
               "RelativeDocumentMoniker": "cppBasics\\src\\prog08.cpp",
@@ -100,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "prog02.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppBasics\\cppBasics\\src\\prog02.cpp",
               "RelativeDocumentMoniker": "cppBasics\\src\\prog02.cpp",

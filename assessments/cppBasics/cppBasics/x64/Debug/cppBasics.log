@@ -1,3 +1,8 @@
-﻿  prog36.cpp
-C:\Users\Administrator\Desktop\cppBasics\cppBasics\src\prog36.cpp(11,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  cppBasics.vcxproj -> C:\Users\Administrator\Desktop\cppBasics\x64\Debug\cppBasics.exe
+﻿  prog60.cpp
+  prog61.cpp
+  prog62.cpp
+  Generating Code...
+prog60.obj : error LNK2005: main already defined in prog59.obj
+prog61.obj : error LNK2005: main already defined in prog59.obj
+prog62.obj : error LNK2005: main already defined in prog59.obj
+C:\Users\Administrator\Desktop\cppBasics\x64\Debug\cppBasics.exe : fatal error LNK1169: one or more multiply defined symbols found

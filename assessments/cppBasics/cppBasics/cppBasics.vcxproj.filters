@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\prog36.cpp">
+    <ClCompile Include="src\prog62.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\prog63.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\prog64.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
