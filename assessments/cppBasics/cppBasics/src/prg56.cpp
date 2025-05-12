@@ -1,5 +1,6 @@
 //66) Ltrim
 #include <iostream>
+#include <cstring>
 using namespace std;
 #define MAX 100
 

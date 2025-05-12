@@ -1,6 +1,7 @@
 //23) Write a Program to Find the Second Smallest Element in an Array
 
 #include <iostream>
+#include <climits>
 using namespace std;
 #define MAX 100
 int findSecondSmallest(int[], int);

@@ -2,6 +2,7 @@
 
 #include <iostream>
 using namespace std;
+#include <cstring>
 int countVowels(char[]);
 #define MAX 100
 

@@ -1,5 +1,7 @@
 //37) Write a Program to Check if the Given String is Palindrome or not Using Recursion
 #include <iostream>
+#include <string>
+#include <cstring>
 using namespace std;
 bool isPalindrome(char[], int, int);
 #define MAX 100

@@ -1,6 +1,7 @@
 //38) Write a Program to Calculate the Length of the String Using Recursion
 
 #include <iostream>
+#include <string>
 using namespace std;
 int findLength(char[]);
 #define MAX 100

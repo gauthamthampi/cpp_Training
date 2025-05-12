@@ -2,6 +2,7 @@
 
 #include <iostream>
 using namespace std;
+#include <cctype>
 #define MAX 100
 void stringToggle(char[]);
 

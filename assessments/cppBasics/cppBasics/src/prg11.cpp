@@ -1,6 +1,8 @@
 // 11)Write a Program to Remove All Characters From a String Except Alphabets
 
 #include <iostream>
+#include <cstring>
+#include <cctype>
 using namespace std;
 #define MAX 100
 void removeCharacters(char[]);

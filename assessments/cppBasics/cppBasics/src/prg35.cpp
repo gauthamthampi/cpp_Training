@@ -1,6 +1,8 @@
 //35) Write a Program to Print the Given String in Reverse Order
 
 #include <iostream>
+#include <string>
+#include <cstring>
 using namespace std;
 void reverseStr(char[]);
 #define MAX 100

@@ -1,6 +1,7 @@
 //26) Write a Program to Check if Two Strings are Anagram or Not
 
 #include <iostream>
+#include <cstring>
 using namespace std;
 #define MAX 100
 bool isAnagram(char[],char[]);

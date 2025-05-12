@@ -1,6 +1,7 @@
 //18) Write a Program to Check Whether a Number is an Armstrong Number or Not
 
 #include <iostream>
+#include <cmath>
 using namespace std;
 bool isArmstrong(int);
 int countDigits(int);

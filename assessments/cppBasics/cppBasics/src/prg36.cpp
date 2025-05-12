@@ -1,6 +1,8 @@
 //36) Write a C++ Program to Print the Given String in Reverse Order Using Recursion
 
 #include <iostream>
+#include <string>
+#include <cstring>
 using namespace std;
 void reverseStr(char[],int,int);
 #define MAX 100

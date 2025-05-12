@@ -1,6 +1,7 @@
 //47) Write a Program for Hexadecimal to Decimal Conversion
 
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int hexToDecimal(const char[]);  

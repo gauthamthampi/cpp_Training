@@ -1,7 +1,10 @@
 //10) Write a Program to Remove the Vowels from a String
 
 #include <iostream>
+#include <cctype>
+#include <cstring>
 using namespace std;
+
 #define MAX 100
 bool isVowel(char);
 void removeVowels(char[]);

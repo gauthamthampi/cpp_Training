@@ -1,6 +1,8 @@
 //12) Write a Program to Remove Spaces From a String
 
 #include <iostream>
+#include <cstring>
+#include <string>
 using namespace std;
 #define MAX 100
 void removeSpaces(char[]);

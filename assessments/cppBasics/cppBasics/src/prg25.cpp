@@ -1,6 +1,7 @@
 //25) Write a Program to Check if the Given String is Palindrome or Not
 
 #include <iostream>
+#include <cstring>
 using namespace std;
 #define MAX 100
 bool isPalindrome(char[]);
