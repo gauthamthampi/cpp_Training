@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBE0187-B39E-4553-BB14-63BF5DC98F3D}|Day 19\\Day 19.vcxproj|C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 19\\Day 19\\src\\que.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDBE0187-B39E-4553-BB14-63BF5DC98F3D}|Day 19\\Day 19.vcxproj|solutionrelative:Day 19\\src\\que.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "que.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 19\\Day 19\\src\\que.cpp",
+              "RelativeDocumentMoniker": "Day 19\\src\\que.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cppRepo\\classworks\\Day 19\\Day 19\\src\\que.cpp",
+              "RelativeToolTip": "Day 19\\src\\que.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T10:51:06.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
