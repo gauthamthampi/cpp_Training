@@ -1,2 +1,4 @@
 ﻿  prg.cpp
+C:\Users\Administrator\Desktop\cppRepo\assessments\day20\day20\src\prg.cpp(248,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\cppRepo\assessments\day20\day20\src\prg.cpp(250,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
   day20.vcxproj -> C:\Users\Administrator\Desktop\cppRepo\assessments\day20\x64\Debug\day20.exe
