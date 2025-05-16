@@ -10,7 +10,7 @@ void removeConsecutive(char* ptr) {
 	for (int i = 0;i < length;i++) {
 		if (abs(*ptr - ++ * ptr) == 1) {
 			for (int j = i;i < length;j++) {
-				ptr = ptr += 2;
+				ptr = ptr + 2;
 			}
 			count++;
 		}
