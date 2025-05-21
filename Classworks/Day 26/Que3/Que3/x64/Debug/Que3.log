@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\cppRepo\classworks\Day 26\Que3\src\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  student.cpp
+C:\Users\Administrator\Desktop\cppRepo\classworks\Day 26\Que3\src\student.cpp(28,39): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\cppRepo\classworks\Day 26\Que3\src\student.cpp(30,22): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\cppRepo\classworks\Day 26\Que3\src\student.cpp(31,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Que3.vcxproj -> C:\Users\Administrator\Desktop\cppRepo\classworks\Day 26\Que3\x64\Debug\Que3.exe
