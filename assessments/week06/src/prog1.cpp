@@ -2,9 +2,6 @@
 #include "prog1.h"
 using namespace std;
 
-void bookSeats(int);
-int showAvailability();
-
 
 void Flight::bookSeats(int num) {
 	if (num > totalSeats && num < 0) {
