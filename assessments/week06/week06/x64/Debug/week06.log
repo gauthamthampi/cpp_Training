@@ -1,0 +1,8 @@
+﻿  prog5_main.cpp
+C:\Users\Administrator\Desktop\cppRepo\assessments\week06\inc\prog5.h(15,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/prog5_main.cpp')
+  
+C:\Users\Administrator\Desktop\cppRepo\assessments\week06\inc\prog5.h(16,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/prog5_main.cpp')
+  
+  week06.vcxproj -> C:\Users\Administrator\Desktop\cppRepo\assessments\week06\x64\Debug\week06.exe
