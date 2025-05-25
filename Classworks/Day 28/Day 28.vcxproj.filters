@@ -15,12 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="inc\dynamic_arr.h">
+    <ClInclude Include="inc\employee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\stack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\dynamic_arr.cpp">
+    <ClCompile Include="src\stack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

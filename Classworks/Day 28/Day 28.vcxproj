@@ -127,14 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="inc\dynamic_arr.h" />
     <ClInclude Include="inc\employee.h" />
     <ClInclude Include="inc\stack.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\dynamic_arr.cpp" />
     <ClCompile Include="src\stack.cpp" />
-    <ClCompile Include="src\stack_class.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
