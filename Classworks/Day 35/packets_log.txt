@@ -1,0 +1,7 @@
+Packet Execution Logs
+=====================
+[ERROR] Unsopported protocol in line: 5 FTP 300
+[INFO] Packets loaded successfully. Count: 4
+[INFO] Packet 1 | TCP | 450 bytes.
+[INFO] Packet 4 | TCP | 200 bytes.
+[WARNING] Packet 3 | ICMP | 1050 bytes.

@@ -1,0 +1,6 @@
+[2025-05-31 12:59:40] [INFO ] Application started
+[2025-05-31 12:59:40] [DEBUG] Initializing variables
+[2025-05-31 12:59:40] [DEBUG] x = 10, y = 0
+[2025-05-31 12:59:40] [WARN ] Attempt to divide by zero
+[2025-05-31 12:59:40] [ERROR] Division failed due to zero denominator
+[2025-05-31 12:59:40] [INFO ] Application ended

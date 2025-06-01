@@ -1,0 +1,12 @@
+Execution Log
+-------------
+[INFO] Loaded 5jobs.
+[INFO] Log saved to job_log.txt
+[INFO] Loaded 5jobs.
+[INFO] Processed FIFO Scheduling.
+[DEBUG] Executing Job ID: 5 | Priority: 4
+[DEBUG] Executing Job ID: 4 | Priority: 5
+[DEBUG] Executing Job ID: 3 | Priority: 1
+[DEBUG] Executing Job ID: 2 | Priority: 3
+[DEBUG] Executing Job ID: 1 | Priority: 2
+[INFO] All jobs executed in 645 ms.
