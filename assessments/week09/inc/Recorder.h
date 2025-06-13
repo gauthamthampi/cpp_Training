@@ -66,84 +66,71 @@ public:
 	}
 
 	void processCDRfileOperator(string filename) {
-		unique_lock<mutex>lock(mtx);
-		ifstream file(filename);
-		if (!file) {
-			cout << "Unable to open file!" << endl;
-			return;
-		}
-		string line2;
-		while (getline(file, line2)) {
-			stringstream s(line2);
-			int i = 0;
-			while (getline(s, line2, '|')) {
-				inp_arr_op[i] = line2;
-				i++;
-			}
-			
-			bool check = false;
-			for (auto i : operators) {
-				if (i.getBrand() == inp_arr_op[1]) {
-					check = true;
-					if ((inp_arr[3] == "GPRS")) {
-						cout << inp_arr_op[4];
-						i.setMbDownload(stoi(inp_arr_op[4]));
-						i.setMbUpload(stoi(inp_arr_op[5]));
-					}
-					else {
-						if (inp_arr[3] == "SMS-MT") {
-							i.setSmsMt(stoi(inp_arr_op[4]));
-						}
-						else if (inp_arr[3] == "SMS-M0") {
-							i.setSmsMo(stoi(inp_arr_op[4]));
-						}
-						else if (inp_arr[3] == "MTC") {
-							i.setMtc(stoi(inp_arr_op[4]));
-						}
-						else if (inp_arr[3] == "MOC") {
-							i.setMoc(stoi(inp_arr_op[4]));
-						}
-						i.setMbDownload(stoi(inp_arr_op[5]));
-						i.setMbUpload(stoi(inp_arr_op[6]));
-					}
-				}
-			}
-			if (!check) {
-				Operator o;
-				o.setBrand(inp_arr_op[1]);
-				cout << inp_arr_op[4];
-				o.setOperatorId(stoi(inp_arr_op[2]));
-				if ((inp_arr[3] == "GPRS")) {
-					cout << inp_arr_op[4];
-					o.setMbDownload(stoi(inp_arr_op[4]));
-					o.setMbUpload(stoi(inp_arr_op[5]));
-				}
-				else {
-					if (inp_arr[3] == "SMS-MT") {
-						o.setSmsMt(stoi(inp_arr_op[4]));
-					}
-					else if (inp_arr[3] == "SMS-M0") {
-						o.setSmsMo(stoi(inp_arr_op[4]));
-					}
-					else if (inp_arr[3] == "MTC") {
-						o.setMtc(stoi(inp_arr_op[4]));
-					}
-					else if (inp_arr[3] == "MOC") {
-						o.setMoc(stoi(inp_arr_op[4]));
-					}
-					o.setMbDownload(stoi(inp_arr[5]));
-					o.setMbUpload(stoi(inp_arr_op[6]));
-				}
-				operators.push_back(o);
-			}
-			
+    unique_lock<mutex> lock(mtx);
+    ifstream file(filename);
+    if (!file) {
+        cout << "Unable to open file!" << endl;
+        return;
+    }
+    string line;
+    while (getline(file, line)) {
+        stringstream s(line);
+        int i = 0;
+        string token;
+        while (getline(s, token, '|')) {
+            inp_arr_op[i] = token;
+            i++;
+        }
 
-			//1037928 | Jio | 42502 | SMS - MT | 0 | 0 | 0 | 1136404 | 42504
+        bool check = false;
+        for (auto& op : operators) {  // Use reference to modify the object
+            if (op.getBrand() == inp_arr_op[1]) {
+                check = true;
+                if (inp_arr_op[3] == "GPRS") {
+                    if (!inp_arr_op[4].empty()) op.setMbDownload(stoi(inp_arr_op[4]));
+                    if (!inp_arr_op[5].empty()) op.setMbUpload(stoi(inp_arr_op[5]));
+                } else {
+                    if (inp_arr_op[3] == "SMS-MT") {
+                        if (!inp_arr_op[4].empty()) op.setSmsMt(stoi(inp_arr_op[4]));
+                    } else if (inp_arr_op[3] == "SMS-MO") {
+                        if (!inp_arr_op[4].empty()) op.setSmsMo(stoi(inp_arr_op[4]));
+                    } else if (inp_arr_op[3] == "MTC") {
+                        if (!inp_arr_op[4].empty()) op.setMtc(stoi(inp_arr_op[4]));
+                    } else if (inp_arr_op[3] == "MOC") {
+                        if (!inp_arr_op[4].empty()) op.setMoc(stoi(inp_arr_op[4]));
+                    }
+                    if (!inp_arr_op[5].empty()) op.setMbDownload(stoi(inp_arr_op[5]));
+                    if (!inp_arr_op[6].empty()) op.setMbUpload(stoi(inp_arr_op[6]));
+                }
+                break;  // Found the operator, no need to continue loop
+            }
+        }
 
-			//log
-		}
+        if (!check) {
+            Operator o;
+            o.setBrand(inp_arr_op[1]);
+            o.setOperatorId(stoi(inp_arr_op[2]));
+            if (inp_arr_op[3] == "GPRS") {
+                if (!inp_arr_op[4].empty()) o.setMbDownload(stoi(inp_arr_op[4]));
+                if (!inp_arr_op[5].empty()) o.setMbUpload(stoi(inp_arr_op[5]));
+            } else {
+                if (inp_arr_op[3] == "SMS-MT") {
+                    if (!inp_arr_op[4].empty()) o.setSmsMt(stoi(inp_arr_op[4]));
+                } else if (inp_arr_op[3] == "SMS-MO") {
+                    if (!inp_arr_op[4].empty()) o.setSmsMo(stoi(inp_arr_op[4]));
+                } else if (inp_arr_op[3] == "MTC") {
+                    if (!inp_arr_op[4].empty()) o.setMtc(stoi(inp_arr_op[4]));
+                } else if (inp_arr_op[3] == "MOC") {
+                    if (!inp_arr_op[4].empty()) o.setMoc(stoi(inp_arr_op[4]));
+                }
+                if (!inp_arr_op[5].empty()) o.setMbDownload(stoi(inp_arr_op[5]));
+                if (!inp_arr_op[6].empty()) o.setMbUpload(stoi(inp_arr_op[6]));
+            }
+            operators.push_back(o);
+        }
+    }
+}
 
-	}
 
 	void displayCustomerBill(int cust_id) {	
 		for (auto i : users) {
