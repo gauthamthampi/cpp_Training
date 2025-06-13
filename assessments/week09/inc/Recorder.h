@@ -72,12 +72,12 @@ public:
 			cout << "Unable to open file!" << endl;
 			return;
 		}
-		string line;
-		while (getline(file, line)) {
-			stringstream s(line);
+		string line2;
+		while (getline(file, line2)) {
+			stringstream s(line2);
 			int i = 0;
-			while (getline(s, line, '|')) {
-				inp_arr_op[i] = line;
+			while (getline(s, line2, '|')) {
+				inp_arr_op[i] = line2;
 				i++;
 			}
 			
