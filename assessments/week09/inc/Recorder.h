@@ -22,7 +22,6 @@ class Recorder {
 	vector<Operator>operators;
 public:
 	void processCDRfileUser(string filename) {
-		unique_lock<mutex>lock(mtx);
 		ifstream file(filename);
 		if (!file) {
 			cout << "Unable to open file!" << endl;
@@ -61,12 +60,10 @@ public:
 				u.setMbUpload(stoi(inp_arr[6]));
 			}
 			users.push_back(u);
-			//log
 		}
 	}
 
 	void processCDRfileOperator(string filename) {
-    unique_lock<mutex> lock(mtx);
     ifstream file(filename);
     if (!file) {
         cout << "Unable to open file!" << endl;
@@ -83,7 +80,7 @@ public:
         }
 
         bool check = false;
-        for (auto& op : operators) {  // Use reference to modify the object
+        for (auto& op : operators) {  
             if (op.getBrand() == inp_arr_op[1]) {
                 check = true;
                 if (inp_arr_op[3] == "GPRS") {
@@ -102,7 +99,7 @@ public:
                     if (!inp_arr_op[5].empty()) op.setMbDownload(stoi(inp_arr_op[5]));
                     if (!inp_arr_op[6].empty()) op.setMbUpload(stoi(inp_arr_op[6]));
                 }
-                break;  // Found the operator, no need to continue loop
+                break;  
             }
         }
 
@@ -156,12 +153,12 @@ public:
 	void displayAllCustomerBill() {
 		for (auto i : users) {
 				cout << "Customer ID: " << i.getCustomerId() << "(" << i.getBrand() << ")" << endl;
-				cout << "Services within the mobile operator << endl";
+				cout << "Services within the mobile operator" << endl;
 				cout << "Incoming voice call durations: " << i.getMtc() << endl;
 				cout << "Outgoing voice call durations: " << i.getMoc() << endl;
 				cout << "Incoming message durations: " << i.getSmsMt() << endl;
 				cout << "Outgoing message durations: " << i.getSmsMo() << endl;
-				cout << "Services outside the mobile operator << endl";
+				cout << "Services outside the mobile operator" << endl;
 				cout << "Incoming voice call durations: " << i.getMtcOop() << endl;
 				cout << "Outgoing voice call durations: " << i.getMocOop() << endl;
 				cout << "Incoming messages: " << i.getSmsMt() << endl;
