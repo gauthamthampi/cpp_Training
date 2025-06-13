@@ -8,6 +8,7 @@
 #include <thread>
 #include <user.h>
 #include <operator.h>
+#include <logger.h>
 #define MAX 9
 using namespace std;
 
@@ -20,11 +21,13 @@ class Recorder {
 	string inp_arr_op[MAX];
 	vector<User>users;
 	vector<Operator>operators;
+	Logger logger;
 public:
 	void processCDRfileUser(string filename) {
 		ifstream file(filename);
 		if (!file) {
 			cout << "Unable to open file!" << endl;
+			logger.log(ERROR, "Error in opening file");
 			return;
 		}
 		string line;
@@ -61,6 +64,7 @@ public:
 			}
 			users.push_back(u);
 		}
+		logger.log(INFO, "Loading Success. " + to_string(users.size()) + " customer details loaded.");
 	}
 
 	void processCDRfileOperator(string filename) {
