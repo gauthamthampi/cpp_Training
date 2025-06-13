@@ -180,7 +180,7 @@ public:
         return;
     }
 
-    for (const auto& i : users) {
+    for (auto& i : users) {
         outfile << "Customer ID: " << i.getCustomerId() << " (" << i.getBrand() << ")\n";
         outfile << "Services within the mobile operator\n";
         outfile << "Incoming voice call durations: " << i.getMtc() << "\n";
@@ -210,7 +210,7 @@ public:
         return;
     }
 
-    for (const auto& i : operators) {
+    for (auto& i : operators) {
         outfile << "Operator Brand: " << i.getOperatorId() << " (" << i.getBrand() << ")\n";
         outfile << "Incoming voice call durations: " << i.getMtc() << "\n";
         outfile << "Outgoing voice call durations: " << i.getMoc() << "\n";

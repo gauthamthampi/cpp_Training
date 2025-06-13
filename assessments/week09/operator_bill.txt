@@ -1,0 +1,35 @@
+Operator Brand: 42502 (Jio)
+Incoming voice call durations: 876475
+Outgoing voice call durations: 879242
+Incoming messages: 0
+Outgoing messages: 0
+MB Downloaded: 0 | MB Uploaded: 445752
+--------------------------
+Operator Brand: 42501 (Partner)
+Incoming voice call durations: 883043
+Outgoing voice call durations: 851048
+Incoming messages: 0
+Outgoing messages: 0
+MB Downloaded: 0 | MB Uploaded: 439487
+--------------------------
+Operator Brand: 42503 (Airtel)
+Incoming voice call durations: 853500
+Outgoing voice call durations: 882069
+Incoming messages: 0
+Outgoing messages: 0
+MB Downloaded: 0 | MB Uploaded: 429235
+--------------------------
+Operator Brand: 42504 (012)
+Incoming voice call durations: 862576
+Outgoing voice call durations: 855646
+Incoming messages: 0
+Outgoing messages: 0
+MB Downloaded: 0 | MB Uploaded: 435195
+--------------------------
+Operator Brand: 42500 (Cellcom)
+Incoming voice call durations: 844736
+Outgoing voice call durations: 874157
+Incoming messages: 0
+Outgoing messages: 0
+MB Downloaded: 0 | MB Uploaded: 408486
+--------------------------
