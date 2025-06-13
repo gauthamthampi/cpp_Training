@@ -173,6 +173,59 @@ public:
 		}
 	}
 
+    void displayAllCustomerBillToFile(const string& outputFilename) {
+    ofstream outfile(outputFilename);
+    if (!outfile) {
+        logger.log(ERROR, "Unable to open customer bill output file.");
+        return;
+    }
+
+    for (const auto& i : users) {
+        outfile << "Customer ID: " << i.getCustomerId() << " (" << i.getBrand() << ")\n";
+        outfile << "Services within the mobile operator\n";
+        outfile << "Incoming voice call durations: " << i.getMtc() << "\n";
+        outfile << "Outgoing voice call durations: " << i.getMoc() << "\n";
+        outfile << "Incoming message durations: " << i.getSmsMt() << "\n";
+        outfile << "Outgoing message durations: " << i.getSmsMo() << "\n";
+
+        outfile << "Services outside the mobile operator\n";
+        outfile << "Incoming voice call durations: " << i.getMtcOop() << "\n";
+        outfile << "Outgoing voice call durations: " << i.getMocOop() << "\n";
+        outfile << "Incoming messages: " << i.getSmsMtOop() << "\n";
+        outfile << "Outgoing messages: " << i.getSmsMoOop() << "\n";
+
+        outfile << "Internet use\n";
+        outfile << "MB Downloaded: " << i.getMbDownload()
+                << " | MB Uploaded: " << i.getMbUpload() << "\n";
+        outfile << "--------------------------\n";
+    }
+
+    logger.log(INFO, "Customer bills written to file: " + outputFilename);
+}
+
+    void displayAllOperatorBillToFile(const string& outputFilename) {
+    ofstream outfile(outputFilename);
+    if (!outfile) {
+        logger.log(ERROR, "Unable to open operator bill output file.");
+        return;
+    }
+
+    for (const auto& i : operators) {
+        outfile << "Operator Brand: " << i.getOperatorId() << " (" << i.getBrand() << ")\n";
+        outfile << "Incoming voice call durations: " << i.getMtc() << "\n";
+        outfile << "Outgoing voice call durations: " << i.getMoc() << "\n";
+        outfile << "Incoming messages: " << i.getSmsMt() << "\n";
+        outfile << "Outgoing messages: " << i.getSmsMo() << "\n";
+        outfile << "MB Downloaded: " << i.getMbDownload()
+                << " | MB Uploaded: " << i.getMbUpload() << "\n";
+        outfile << "--------------------------\n";
+    }
+
+    logger.log(INFO, "Operator bills written to file: " + outputFilename);
+}
+
+
+
 	void displayOperatorBill(int op_id) {
 		for (auto i : operators) {
 			if (i.getOperatorId() == op_id) {
