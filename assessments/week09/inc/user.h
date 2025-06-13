@@ -17,7 +17,8 @@ class User {
     int mb_ul;
 
 public:
-    // Getters
+    User() :moc(0), mtc(0), sms_mo(0), sms_mt(0), moc_oop(0), mtc_oop(0), sms_mo_oop(0),
+        sms_mt_oop(0), mb_dl(0), mb_ul(0){}
     int getCustomerId() {
         return customer_id;
     }
@@ -55,7 +56,6 @@ public:
         return mb_ul;
     }
 
-    // Setters
     void setCustomerId(int id) {
         customer_id = id;
     }

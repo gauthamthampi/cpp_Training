@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 	Recorder rh;
-	rh.processCDRfile("test.txt");
-
-	
+	rh.processCDRfileOperator("test.txt");
+	//rh.displayAllCustomerBill();
+	rh.displayAllOperatorBill();
 }

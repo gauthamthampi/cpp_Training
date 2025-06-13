@@ -14,6 +14,7 @@ class Operator {
 
 public:
     // Getters
+    Operator():mtc(0),moc(0),sms_mo(0),sms_mt(0),mb_dl(0),mb_ul(0){}
     string getBrand() {
         return brand;
     }
@@ -47,21 +48,21 @@ public:
         operator_id = id;
     }
     void setMtc(int val) {
-        mtc = val;
+        mtc += val;
     }
     void setMoc(int val) {
-        moc = val;
+        moc += val;
     }
     void setSmsMo(int val) {
-        sms_mo = val;
+        sms_mo += val;
     }
     void setSmsMt(int val) {
-        sms_mt = val;
+        sms_mt += val;
     }
     void setMbDownload(int val) {
-        mb_dl = val;
+        mb_dl += val;
     }
     void setMbUpload(int val) {
-        mb_ul = val;
+        mb_ul += val;
     }
 };
